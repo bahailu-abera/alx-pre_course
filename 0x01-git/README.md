@@ -1,1 +1,1 @@
-"my second readme " 
+"coding in the git terminal" 
